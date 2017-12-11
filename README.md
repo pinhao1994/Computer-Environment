@@ -75,7 +75,7 @@ ___Hotkey Setting___
 			"cells": [[0, 0, 1, 1]]
 		}
 	},	
-{ "keys": ["f1", "f1"], "command": "fold_by_level", "args": {"level": 1} },
+	{ "keys": ["f1", "f1"], "command": "fold_by_level", "args": {"level": 1} },
 	{ "keys": ["f2", "f2"], "command": "fold_by_level", "args": {"level": 2} },
 
 ]
