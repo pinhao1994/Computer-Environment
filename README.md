@@ -82,13 +82,17 @@ ___Hotkey Setting___
 ```
 
 ___Right Click___
+
 Win: https://forum.sublimetext.com/t/right-click-open-folder-with-sublime-text/13970/4   
+
 Mac: https://shellzero.wordpress.com/2014/09/10/how-to-add-open-in-sublime-text-service-to-any-folder-or-a-file-on-mac-shell-script/ 
 
 ___Theme___
+
 Monokai Expanded.tmtheme: http://jsnwork.kiiuo.com/archives/1770/sublimetext-php-%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88-monokai%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%AE%93phphtml%E7%9A%84%E8%BE%A8%E8%AD%98%E5%BA%A6%E6%8F%90%E9%AB%98
 
 ___License___
+
 Search Sublime text 2/3 License
 https://gist.github.com/rauniaporta/15e0bbd00629b589345ba9f69c547b10
 
