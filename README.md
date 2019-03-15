@@ -6,7 +6,7 @@
   * MS office
   * Spotify
   * Line
-  * Sublime Text 3
+  * Sublime
   * Dropbox
 * Windows
   * Adobe Acrobat DC
@@ -14,7 +14,9 @@
   * WinRar
 * MAC
   * AppCleaner
+  * Tunnelblick: VPN
   * (Fluid App)
+  * Applicationzer: https://applicationize.me/now
   * Mounty: Read/Write stf disk
 
 * Option
