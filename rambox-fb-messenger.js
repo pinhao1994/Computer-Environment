@@ -513,4 +513,7 @@ div._4-i2, div._5a8u {
 ._17cj ._2ze8, ._17cj ._cen, ._5sr7, ._4nw0 {
 	color: rgba(255, 255, 255, .6) !important;
 }
+._3egs {
+    background: transparent !important;
+}
 `);
