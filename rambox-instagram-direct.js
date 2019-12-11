@@ -33,6 +33,10 @@ h1.K3Sf1 {
 div.N9abW, div.N9abW div {
 	background: #181818 !important;
 	color: white !important;
-	border-color: #CCCCCC !important
+	border-color: #CCCCCC !important;
+}
+
+textarea {
+  color: white !important;
 }
 `);
