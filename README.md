@@ -22,6 +22,8 @@
   * Itsyal
   * Amphetamine
   * KeKa
+  * Shifty
+  * Spotmenu
 
 * Option
   * 1Checker
