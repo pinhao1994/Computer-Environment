@@ -14,7 +14,7 @@
   * [AppCleaner](https://freemacsoft.net/appcleaner/)
   * [Tunnelblick: VPN](https://tunnelblick.net/)
   * [Mounty: Read/Write NTFS](https://mac.filehorse.com/download-mounty/)
-  * [Itsycal](https://www.mowglii.com/itsycal/): Format - E MMM dd  HH:mm
+  * [Itsycal](https://www.mowglii.com/itsycal/): Format - `E MMM dd  HH:mm`
   * Amphetamine
   * [KeKa: Unzip](https://www.keka.io/en/)
   * [Shifty: Night Shift](https://shifty.natethompson.io/en/)
