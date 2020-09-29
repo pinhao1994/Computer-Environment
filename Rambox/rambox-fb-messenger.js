@@ -378,7 +378,8 @@ input::-webkit-input-placeholder {
 	filter: invert(1);
 }
 ._1z_2 svg path,
-#Settings > path, #compose > path,
+#Settings > path, #compose > path, 
+a[title="Create new room"] > svg > path,
 #Search > path, #bell > path, #reply > path,
 #message-dots > path,
 #minus-circle > path,
