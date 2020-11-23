@@ -19,6 +19,11 @@
   * [KeKa: Unzip](https://www.keka.io/en/)
   * [Shifty: Night Shift](https://shifty.natethompson.io/en/)
   * [Spotmenu](https://kmikiy.github.io/SpotMenu/)
+  * [AirBar](https://tiivik.github.io/?ref=producthunt)
+  * [Alfred](https://www.alfredapp.com/)
+  * LastPass
+  * Xnip: switch to US app store
+  * iStats: worth to buy it
 
 * Windows
   * Adobe Acrobat DC
