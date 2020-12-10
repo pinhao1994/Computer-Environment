@@ -15,23 +15,32 @@
   * [Tunnelblick: VPN](https://tunnelblick.net/)
   * [Mounty: Read/Write NTFS](https://mac.filehorse.com/download-mounty/)
   * [Itsycal](https://www.mowglii.com/itsycal/): Format - `E MMM dd  HH:mm`
-  * Amphetamine
+  * Amphetamine: on App store
   * [KeKa: Unzip](https://www.keka.io/en/)
   * [Shifty: Night Shift](https://shifty.natethompson.io/en/)
   * [Spotmenu](https://kmikiy.github.io/SpotMenu/)
   * [AirBar](https://tiivik.github.io/?ref=producthunt)
   * [Alfred](https://www.alfredapp.com/)
-  * LastPass
-  * Xnip: switch to US app store
-  * iStats: worth to buy it
-
+  * LastPass: both Chrome extension and on App Store
+  * Xnip: switch to US App store
+  * [iStats](https://drive.google.com/file/d/1W7xyxoxytAIETmN7_25QXMbplDhBYAH9/view?usp=sharing): worth to buy it in X'mas or BlackFriday
+  * [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+  * [oh-my-zsh](https://0n3z3r0n3.medium.com/oh-my-zsh-configuration-guide-for-macos-terminal-3ee6003b09d5)
+  
+  ```bash
+  conda config --set changeps1 False
+  unset CONDA_PROMPT_MODIFIER
+  mv ~/Desktop/pinhao1994.zsh-theme .oh-my-zsh/theme
+  ```
+  
 * Windows
   * Adobe Acrobat DC
   * WinRaR
 
 * Option
   * [Fliqlo](https://fliqlo.com/)
-  * MS office
+  * MS office ([mac](https://drive.google.com/file/d/12FGjwn0kZY4fOZfkbsC_TfjWjPri1ohu/view?usp=sharing), windows)
+  * [medium-unlimited chrome extension](https://drive.google.com/file/d/1uo6tIxHueIDBH4T96W01m41GMpjDQFf_/view?usp=sharing)
   * 1Checker
   * Grammarly
   
