@@ -30,7 +30,7 @@
   ```bash
   conda config --set changeps1 False
   unset CONDA_PROMPT_MODIFIER
-  mv ~/Desktop/pinhao1994.zsh-theme .oh-my-zsh/theme
+  mv pinhao1994.zsh-theme .oh-my-zsh/theme
   ```
   
 * Windows
