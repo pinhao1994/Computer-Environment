@@ -19,7 +19,7 @@
   * [KeKa: Unzip](https://www.keka.io/en/)
   * [Shifty: Night Shift](https://shifty.natethompson.io/en/)
   * [Spotmenu](https://kmikiy.github.io/SpotMenu/)
-  * [AirBar](https://tiivik.github.io/?ref=producthunt)
+  * Toothpicks: on App store
   * [Alfred](https://www.alfredapp.com/)
   * LastPass: both Chrome extension and on App Store
   * Xnip: switch to US App store
