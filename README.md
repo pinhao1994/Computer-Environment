@@ -27,11 +27,13 @@
   * [miniconda](https://docs.conda.io/en/latest/miniconda.html)
   * [oh-my-zsh](https://0n3z3r0n3.medium.com/oh-my-zsh-configuration-guide-for-macos-terminal-3ee6003b09d5)
   
-  ```bash
-  conda config --set changeps1 False
-  unset CONDA_PROMPT_MODIFIER
-  mv pinhao1994.zsh-theme .oh-my-zsh/theme
-  ```
+  
+    * apply zsh theme correctly
+    ```bash
+    conda config --set changeps1 False
+    unset CONDA_PROMPT_MODIFIER
+    mv pinhao1994.zsh-theme .oh-my-zsh/theme
+    ```
   
 * Windows
   * Adobe Acrobat DC
@@ -40,7 +42,6 @@
 * Option
   * [Fliqlo](https://fliqlo.com/)
   * MS office ([mac](https://drive.google.com/file/d/12FGjwn0kZY4fOZfkbsC_TfjWjPri1ohu/view?usp=sharing), windows)
-  * [medium-unlimited chrome extension](https://drive.google.com/file/d/1uo6tIxHueIDBH4T96W01m41GMpjDQFf_/view?usp=sharing)
   * 1Checker
   * Grammarly
   
