@@ -26,7 +26,7 @@
   * [iStats](https://drive.google.com/file/d/1W7xyxoxytAIETmN7_25QXMbplDhBYAH9/view?usp=sharing): worth to buy it in X'mas or BlackFriday
   * [miniconda](https://docs.conda.io/en/latest/miniconda.html)
   * [oh-my-zsh](https://0n3z3r0n3.medium.com/oh-my-zsh-configuration-guide-for-macos-terminal-3ee6003b09d5)
-  
+  * [Pock](https://pock.dev/): if touch bar available
   
     * apply zsh theme correctly
     ```bash
