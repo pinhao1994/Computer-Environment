@@ -45,4 +45,6 @@
   * [LibreOffice](https://www.libreoffice.org/)
   * [Alfred](https://www.alfredapp.com/)
   * [Itsycal](https://www.mowglii.com/itsycal/): Format - `E MMM dd  HH:mm`
+  * [Sequel](http://www.sequelpro.com/)
+  * [Mongo Compass](https://www.mongodb.com/try/download/compass)
   
