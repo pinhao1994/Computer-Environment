@@ -9,6 +9,7 @@
   * Dropbox
   * Filezilla
   * Jupyter Lab/ Notebooks (Python 3)
+  * PyCharm (pycharm_settings.zip)
   
 * MAC
   * [AppCleaner](https://freemacsoft.net/appcleaner/)
