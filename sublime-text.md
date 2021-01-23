@@ -1,5 +1,6 @@
 # Sublime Text 3 Install Instruction
-Reference Tutorial: https://packagecontrol.io/installation
+
+_Reference Tutorial: https://packagecontrol.io/installation_
 
 `ctrl+` or `view > show console`
 
@@ -9,7 +10,10 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 
 `cmd + shift + p`
 
-___Install Package___
+---
+
+### Extension Package
+
 * ChineseLocalizations
 * ConvertToUTF8
 * Codecs33 (only for MAC)
@@ -24,6 +28,10 @@ ___Install Package___
 * **AdvancedNewFile**
 * Clickable URL
 * IMESupport (only for Win)
+
+---
+
+### Customize Settings
 
 ___Setting -- User___
 ```Json
@@ -58,17 +66,18 @@ ___Hotkey Setting___
 		}
 	},	
 	{ "keys": ["f1", "f1"], "command": "fold_by_level", "args": {"level": 1} },
-	{ "keys": ["f2", "f2"], "command": "fold_by_level", "args": {"level": 2} },
-
+	{ "keys": ["f2", "f2"], "command": "fold_by_level", "args": {"level": 2} }
 ]
 ```
 
-___Right Click___
+---
 
-Win: https://forum.sublimetext.com/t/right-click-open-folder-with-sublime-text/13970/4   
+### Nice To Add
 
-Mac: https://shellzero.wordpress.com/2014/09/10/how-to-add-open-in-sublime-text-service-to-any-folder-or-a-file-on-mac-shell-script/ 
+______
 
-___Theme___
+[Windows Right Click](https://forum.sublimetext.com/t/right-click-open-folder-with-sublime-text/13970/4)   
 
-[Monokai Expanded.tmtheme](http://jsnwork.kiiuo.com/archives/1770/sublimetext-php-%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88-monokai%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%AE%93phphtml%E7%9A%84%E8%BE%A8%E8%AD%98%E5%BA%A6%E6%8F%90%E9%AB%98)
+[MacOS Right Click](https://shellzero.wordpress.com/2014/09/10/how-to-add-open-in-sublime-text-service-to-any-folder-or-a-file-on-mac-shell-script/) 
+
+Theme: [Monokai Expanded.tmtheme](http://jsnwork.kiiuo.com/archives/1770/sublimetext-php-%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88-monokai%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%AE%93phphtml%E7%9A%84%E8%BE%A8%E8%AD%98%E5%BA%A6%E6%8F%90%E9%AB%98)
