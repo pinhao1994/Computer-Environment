@@ -43,19 +43,19 @@
 ---
 
 ### Windows
-  * Adobe Acrobat DC
-  * WinRaR
+* Adobe Acrobat DC
+* WinRaR
 
 ---
 
 ### Optional
-  * [Fliqlo](https://fliqlo.com/)
-  * MS office ([mac](https://drive.google.com/file/d/12FGjwn0kZY4fOZfkbsC_TfjWjPri1ohu/view?usp=sharing), windows)
-  * [LibreOffice](https://www.libreoffice.org/) 
-  * 1Checker
-  * Amphetamine: on App store
-  * Xnip: switch to US App store
-  * [Pock](https://pock.dev/)
-  * [Sequel](http://www.sequelpro.com/)
-  * [Mongo Compass](https://www.mongodb.com/try/download/compass)
-  * [Spotmenu](https://kmikiy.github.io/SpotMenu/)
+* [Fliqlo](https://fliqlo.com/)
+* MS office ([mac](https://drive.google.com/file/d/12FGjwn0kZY4fOZfkbsC_TfjWjPri1ohu/view?usp=sharing), windows)
+* [LibreOffice](https://www.libreoffice.org/) 
+* 1Checker
+* Amphetamine: on App store
+* Xnip: switch to US App store
+* [Pock](https://pock.dev/)
+* [Sequel](http://www.sequelpro.com/)
+* [Mongo Compass](https://www.mongodb.com/try/download/compass)
+* [Spotmenu](https://kmikiy.github.io/SpotMenu/)
