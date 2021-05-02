@@ -40,6 +40,7 @@
 * [Alfred](https://www.alfredapp.com/)
 * [Itsycal](https://www.mowglii.com/itsycal/): Format - `E MMM dd  HH:mm`
 * [Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur): alternative for SpotMenu
+* iterm2: `brew install iterm2`
   
 ---
 
