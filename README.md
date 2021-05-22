@@ -6,15 +6,18 @@
 * Java Env
 * Spotify
 * Line
-* Rambox: [customize dark theme](https://github.com/pinhao1994/Computer-Environment/blob/master/Rambox)
 * Sublime Text: [setup instruction](https://github.com/pinhao1994/Computer-Environment/blob/master/sublime-text.md)
 * Dropbox
-* Filezilla
 * PyCharm (pycharm_settings.zip)
 * LastPass: both Chrome extension and on App Store
-* [Grammarly](https://app.grammarly.com)
+* [Grammarly](https://app.grammarly.com) and chrome extension
 * [miniconda](https://docs.conda.io/en/latest/miniconda.html)
   * Jupyter Lab/ Notebooks (Python 3)
+* Brew Install
+  ```bash
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  ```  
+
 
 ---
 
@@ -41,23 +44,25 @@
 * [Itsycal](https://www.mowglii.com/itsycal/): Format - `E MMM dd  HH:mm`
 * [Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur): alternative for SpotMenu
 * iterm2: `brew install iterm2`
-  
----
+* iShot: App Store; scrolling screenshot; (`cmd + ctl + shf + 6`)
+* All in One
+  * Rambox: [customize dark theme](https://github.com/pinhao1994/Computer-Environment/blob/master/Rambox)  
+  * Clovery: App Store; alternative for Rambox
 
-### Windows
-* Adobe Acrobat DC
-* WinRaR
-
----
 
 ### Optional
+
 * [Fliqlo](https://fliqlo.com/)
 * MS office ([mac](https://drive.google.com/file/d/12FGjwn0kZY4fOZfkbsC_TfjWjPri1ohu/view?usp=sharing), windows)
 * [LibreOffice](https://www.libreoffice.org/) 
 * 1Checker
 * Amphetamine: on App store
-* Xnip: switch to US App store
-* [Pock](https://pock.dev/)
-* [Sequel](http://www.sequelpro.com/)
-* [Mongo Compass](https://www.mongodb.com/try/download/compass)
-* [Spotmenu](https://kmikiy.github.io/SpotMenu/)
+* <s>Xnip: switch to US App store</s>
+* [Pock](https://pock.dev/): customize touch bar
+* DataBase Management
+  * [Sequel](http://www.sequelpro.com/)
+  * [Mongo Compass](https://www.mongodb.com/try/download/compass)
+* <s>[Spotmenu](https://kmikiy.github.io/SpotMenu/) </s>
+* Filezilla
+* Adobe Acrobat DC
+* WinRAR
