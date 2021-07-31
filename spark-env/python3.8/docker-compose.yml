@@ -1,0 +1,12 @@
+version: '3.3'
+services:
+  blues-env:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - /home/blues.lin/code:/root/code
+      - /home/blues.lin/data:/root/data
+    ports:
+      - "7022:22"
+      - "7000:8888"
