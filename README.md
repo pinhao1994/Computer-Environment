@@ -13,6 +13,11 @@
 * [Grammarly](https://app.grammarly.com) and chrome extension
 * [miniconda](https://docs.conda.io/en/latest/miniconda.html)
   * Jupyter Lab/ Notebooks (Python 3)
+  ```bash
+  function addjupkernel() {
+    python -m ipykernel install --user --name=$1
+  }
+  ```
 * Brew Install
   ```bash
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -44,6 +49,9 @@
 * [Itsycal](https://www.mowglii.com/itsycal/): Format - `E MMM dd  HH:mm`
 * [Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur): alternative for SpotMenu
 * iterm2: `brew install iterm2`
+  * Appearance &rarr; General &rarr; Status bar location
+  * Appearance &rarr; Theme &rarr; Minimal
+  * Keys &rarr; Hotkey &rarr; cmd + ` 
 * iShot: App Store; scrolling screenshot; (`cmd + ctl + shf + 6`)
 * All in One
   * Rambox: [customize dark theme](https://github.com/pinhao1994/Computer-Environment/blob/master/Rambox)  
