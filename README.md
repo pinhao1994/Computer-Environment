@@ -48,14 +48,15 @@
   ```
 * [Alfred](https://www.alfredapp.com/)
 * [Itsycal](https://www.mowglii.com/itsycal/): Format - `E MMM dd  HH:mm`
-* [Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur): alternative for SpotMenu
+* <s>[Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur): alternative for SpotMenu </s>
 * iterm2: `brew install iterm2`
   * Appearance &rarr; General &rarr; Status bar location
   * Appearance &rarr; Theme &rarr; Minimal
   * Keys &rarr; Hotkey &rarr; cmd + ` 
-* iShot: App Store; scrolling screenshot; (`cmd + ctl + shf + 6`)
+* iShot: App Store; scrolling screenshot; (`cmd + shf + 4`)
 * All in One
-  * Rambox: [customize dark theme](https://github.com/pinhao1994/Computer-Environment/blob/master/Rambox)  
+  * [Ferdi](https://getferdi.com/): the open source Rambox with free dark mode
+  * <s>Rambox: [customize dark theme](https://github.com/pinhao1994/Computer-Environment/blob/master/Rambox) </s>  
   * Clovery: App Store; alternative for Rambox
 
 
