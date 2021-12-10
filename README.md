@@ -8,7 +8,7 @@
 * Line
 * Sublime Text: [setup instruction](https://github.com/pinhao1994/Computer-Environment/blob/master/sublime-text.md)
 * Dropbox
-* PyCharm (pycharm_settings.zip)
+* PyCharm (`pycharm_settings.zip`)
 * LastPass: both Chrome extension and on App Store
 * [Grammarly](https://app.grammarly.com) and chrome extension
 * [miniconda](https://docs.conda.io/en/latest/miniconda.html)
@@ -18,6 +18,7 @@
     python -m ipykernel install --user --name=$1
   }
   ```
+  * Jupyter Viewer ([nbviewer](https://github.com/tuxu/nbviewer-app))
 * Brew Install
   ```bash
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
