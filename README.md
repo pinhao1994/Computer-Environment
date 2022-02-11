@@ -54,6 +54,7 @@
   * Appearance &rarr; Theme &rarr; Minimal
   * Keys &rarr; Hotkey &rarr; cmd + ` 
 * iShot: App Store; scrolling screenshot; (`cmd + shf + 4`)
+* [Rectangle](https://rectangleapp.com/)
 * All in One
   * [Ferdi](https://getferdi.com/): the open source Rambox with free dark mode
   * <s>Rambox: [customize dark theme](https://github.com/pinhao1994/Computer-Environment/blob/master/Rambox) </s>  
