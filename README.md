@@ -69,7 +69,9 @@
 * 1Checker
 * Amphetamine: on App store
 * <s>Xnip: switch to US App store</s>
-* [Pock](https://pock.dev/): customize touch bar
+* Customize Touch Bar (MacBook from 2016 - 2021)
+  * [Pock](https://pock.dev/)
+  * [MTMR](https://mtmr.app/): check [mtmr-items.json](https://github.com/pinhao1994/Computer-Environment/blob/master/mtmr-items.json) for the preset
 * DataBase Management
   * [Sequel](http://www.sequelpro.com/)
   * [Mongo Compass](https://www.mongodb.com/try/download/compass)
