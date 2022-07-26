@@ -29,29 +29,32 @@ async def func1():
 async def func2():
     pass
 
-loop = asyncio.get_event_loop()
+loop = asyncio.new_event_loop()
+asyncio.set_event_loop(loop)
 tasks = [
     func1(),
     func2()
 ]
-rets: List = loop.run_until_complete(*tasks)
+rets: List = loop.run_until_complete(
+    asyncio.gather(*tasks)
+)
 
 loop.close()
 ```
 
 ### Async in Jupyter
-```jupyterpython
+```python
 # define async func in a cell
 async def func1():
     pass
 
-# execute in another cell
+# execute directly in another cell
 await func1()
 ```
 
 ### Aiohttp
 
-```jupyterpython
+```python
 import asyncio
 import time
 from functools import partial
@@ -74,7 +77,7 @@ async def fetch_all(event_loop, url, queries):
         return results
 
 
-# create tasks in another cell
+# execute this example in another jupyter cell
 loop = asyncio.get_event_loop()
 func = partial(fetch_all, loop, )
 
