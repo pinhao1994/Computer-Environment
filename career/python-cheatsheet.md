@@ -12,8 +12,25 @@ print(type(l))
 # <class: list>
 ```
 
-## Multi Thread
+## Multi Thread Processing
 https://myapollo.com.tw/zh-tw/python-multiprocessing/
+
+```python
+from concurrent.futures import ProcessPoolExecutor
+
+def func(a):
+    return a + 1
+
+inputs = range(100)
+with ProcessPoolExecutor() as executor:
+    futures = [executor.submit(func, i) for i in inputs]
+    
+    outputs = []
+    for fut in futures:
+        outputs.append(fut.result())
+
+print(outputs)
+```
 
 
 ## Async
@@ -53,6 +70,8 @@ await func1()
 ```
 
 ### Aiohttp
+
+https://docs.aiohttp.org/en/stable/
 
 ```python
 import asyncio
