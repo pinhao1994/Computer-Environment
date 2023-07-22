@@ -9,7 +9,8 @@
 * Sublime Text: [setup instruction](https://github.com/pinhao1994/Computer-Environment/blob/master/sublime-text.md)
 * Dropbox
 * PyCharm (`pycharm_settings.zip`)
-* LastPass: both Chrome extension and on App Store
+* <s>LastPass: both Chrome extension and on App Store</s>
+* Bitwarden
 * [Grammarly](https://app.grammarly.com) and chrome extension
 * [miniconda](https://docs.conda.io/en/latest/miniconda.html)
   * Jupyter Lab/ Notebooks (Python 3)
@@ -34,7 +35,7 @@
 * [Mounty: Read/Write NTFS](https://mac.filehorse.com/download-mounty/)
 * [KeKa: Unzip](https://www.keka.io/en/)
 * [Shifty: Night Shift](https://shifty.natethompson.io/en/)
-* Toothpicks: on App store
+* <s>Toothpicks: on App store</s>
 * OS Stats: 
   * [iStats](https://drive.google.com/file/d/1W7xyxoxytAIETmN7_25QXMbplDhBYAH9/view?usp=sharing): worth to buy it in X'mas or BlackFriday
   * [stats](https://github.com/exelban/stats): open source
@@ -53,12 +54,15 @@
   * Appearance &rarr; General &rarr; Status bar location
   * Appearance &rarr; Theme &rarr; Minimal
   * Keys &rarr; Hotkey &rarr; cmd + ` 
+  * k8s on status bar: https://sig.gy/itermkube/
 * iShot: App Store; scrolling screenshot; (`cmd + shf + 4`)
 * [Rectangle](https://rectangleapp.com/)
 * All in One
   * [Ferdi](https://getferdi.com/): the open source Rambox with free dark mode
   * <s>Rambox: [customize dark theme](https://github.com/pinhao1994/Computer-Environment/blob/master/Rambox) </s>  
   * Clovery: App Store; alternative for Rambox
+* [WPS](https://www.wps.com/download/): free MS office alternative
+* [Raycast](https://www.raycast.com/): alfred alternative
 
 
 ### Optional
