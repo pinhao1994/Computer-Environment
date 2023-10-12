@@ -47,6 +47,9 @@
   unset CONDA_PROMPT_MODIFIER
   mv pinhao1994.zsh-theme .oh-my-zsh/theme
   ```
+  * Plugin
+    * [zsh-completions](https://github.com/zsh-users/zsh-completions)
+    * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [Alfred](https://www.alfredapp.com/)
 * [Itsycal](https://www.mowglii.com/itsycal/): Format - `E MMM dd  HH:mm`
 * <s>[Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur): alternative for SpotMenu </s>
@@ -55,14 +58,16 @@
   * Appearance &rarr; Theme &rarr; Minimal
   * Keys &rarr; Hotkey &rarr; cmd + ` 
   * k8s on status bar: https://sig.gy/itermkube/
+  * [kube-fzf](https://github.com/thecasualcoder/kube-fzf)
 * iShot: App Store; scrolling screenshot; (`cmd + shf + 4`)
 * [Rectangle](https://rectangleapp.com/)
 * All in One
-  * [Ferdi](https://getferdi.com/): the open source Rambox with free dark mode
+  * [Ferdium](https://ferdium.org/) 
+  * <s>[Ferdi](https://getferdi.com/): the open source Rambox with free dark mode</s>
   * <s>Rambox: [customize dark theme](https://github.com/pinhao1994/Computer-Environment/blob/master/Rambox) </s>  
   * Clovery: App Store; alternative for Rambox
 * [WPS](https://www.wps.com/download/): free MS office alternative
-* [Raycast](https://www.raycast.com/): alfred alternative
+* [Raycast](https://www.raycast.com/): Alfred alternative
 
 
 ### Optional
