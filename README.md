@@ -3,12 +3,19 @@
 ### Overall
 
 * Chrome
+  * [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh)
+  * [MeetApps Google Calendar Video Call Links](https://chrome.google.com/webstore/detail/meetapps-google-calendar/jgliplolinicikblamobaaagffepghie)
+  * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 * Java Env
 * Spotify
 * Line
 * Sublime Text: [setup instruction](https://github.com/pinhao1994/Computer-Environment/blob/master/sublime-text.md)
 * Dropbox
 * PyCharm (`pycharm_settings.zip`)
+  * Plugins
+    * Atom Material Icons
+    * JSON Formatter
+    * Big Data File Viewer (or Big Data Tools)  
 * <s>LastPass: both Chrome extension and on App Store</s>
 * Bitwarden
 * [Grammarly](https://app.grammarly.com) and chrome extension
@@ -84,6 +91,8 @@
 * DataBase Management
   * [Sequel](http://www.sequelpro.com/)
   * [Mongo Compass](https://www.mongodb.com/try/download/compass)
+  * [BeeKeeper](https://www.beekeeperstudio.io/)
+  * DataGrip
 * <s>[Spotmenu](https://kmikiy.github.io/SpotMenu/) </s>
 * Filezilla
 * Adobe Acrobat DC
