@@ -97,3 +97,4 @@
 * Filezilla
 * Adobe Acrobat DC
 * WinRAR
+* [Get Mi Home Devices Token](https://github.com/Maxmudjon/Get_MiHome_devices_token)
