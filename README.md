@@ -6,6 +6,7 @@
   * [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh)
   * [MeetApps Google Calendar Video Call Links](https://chrome.google.com/webstore/detail/meetapps-google-calendar/jgliplolinicikblamobaaagffepghie)
   * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+  * [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 * Java Env
 * Spotify
 * Line
@@ -18,7 +19,6 @@
     * Big Data File Viewer (or Big Data Tools)  
 * <s>LastPass: both Chrome extension and on App Store</s>
 * Bitwarden
-* [Grammarly](https://app.grammarly.com) and chrome extension
 * [miniconda](https://docs.conda.io/en/latest/miniconda.html)
   * Jupyter Lab/ Notebooks (Python 3)
   ```bash
@@ -31,7 +31,6 @@
   ```bash
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   ```  
-
 
 ---
 
@@ -47,22 +46,24 @@
   * [iStats](https://drive.google.com/file/d/1W7xyxoxytAIETmN7_25QXMbplDhBYAH9/view?usp=sharing): worth to buy it in X'mas or BlackFriday
   * [stats](https://github.com/exelban/stats): open source
   * [MenuMeters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/): raw base style
-* [oh-my-zsh](https://0n3z3r0n3.medium.com/oh-my-zsh-configuration-guide-for-macos-terminal-3ee6003b09d5)
+* [oh-my-zsh](https://ohmyz.sh/)
   * apply zsh theme correctly
   ```bash
   conda config --set changeps1 False
   unset CONDA_PROMPT_MODIFIER
-  mv pinhao1994.zsh-theme .oh-my-zsh/theme
+  mv pinhao1994.zsh-theme .oh-my-zsh/themes
   ```
   * Plugin
     * [zsh-completions](https://github.com/zsh-users/zsh-completions)
     * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [Alfred](https://www.alfredapp.com/)
+* [Raycast](https://www.raycast.com/): Alfred alternative
 * [Itsycal](https://www.mowglii.com/itsycal/): Format - `E MMM dd  HH:mm`
 * <s>[Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur): alternative for SpotMenu </s>
 * iterm2: `brew install iterm2`
   * Appearance &rarr; General &rarr; Status bar location
   * Appearance &rarr; Theme &rarr; Minimal
+  * Profiles &rarr; Session &rarr; Status bar enabled
   * Keys &rarr; Hotkey &rarr; cmd + ` 
   * k8s on status bar: https://sig.gy/itermkube/
   * [kube-fzf](https://github.com/thecasualcoder/kube-fzf)
@@ -74,7 +75,6 @@
   * <s>Rambox: [customize dark theme](https://github.com/pinhao1994/Computer-Environment/blob/master/Rambox) </s>  
   * Clovery: App Store; alternative for Rambox
 * [WPS](https://www.wps.com/download/): free MS office alternative
-* [Raycast](https://www.raycast.com/): Alfred alternative
 
 
 ### Optional
