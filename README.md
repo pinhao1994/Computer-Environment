@@ -56,6 +56,7 @@
   * Plugin
     * [zsh-completions](https://github.com/zsh-users/zsh-completions)
     * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+    * Installation: https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df
 * [Alfred](https://www.alfredapp.com/)
 * [Raycast](https://www.raycast.com/): Alfred alternative
 * [Itsycal](https://www.mowglii.com/itsycal/): Format - `E MMM dd  HH:mm`
