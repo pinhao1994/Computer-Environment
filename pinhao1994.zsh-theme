@@ -1,16 +1,17 @@
-# AVIT ZSH Theme
+# PINHAO1994 ZSH Theme
+## original from AVIT ZSH Theme
 
 # settings
 typeset +H _current_dir="%{$fg_bold[blue]%}%~%{$reset_color%} "
 typeset +H _return_status="%{$fg_bold[red]%}%(?..⍉)%{$reset_color%}"
 typeset +H _hist_no="%{$fg[grey]%}%h%{$reset_color%}"
 
-PROMPT='${_current_dir} $(git_prompt_info) $(ruby_prompt_info)
+PROMPT='${_current_dir} $(git_prompt_info) $(git_prompt_status)
 %{%(!.${fg[red]}.${fg[white]})%}▶%{$reset_color%} '
 
 PROMPT2='%{%(!.${fg[red]}.${fg[white]})%}◀%{$reset_color%} '
 
-RPROMPT='$(vi_mode_prompt_info)%{$(echotc UP 1)%}$(_git_time_since_commit) $(git_prompt_status) (${CONDA_DEFAULT_ENV}) ${_return_status}%{$(echotc DO 1)%}'
+RPROMPT='$(vi_mode_prompt_info)%{$(echotc UP 1)%}$(kube_ps1) (${CONDA_DEFAULT_ENV}) ${_return_status}%{$(echotc DO 1)%}'
 
 function _user_host() {
   local me
