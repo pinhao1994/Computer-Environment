@@ -45,29 +45,33 @@
 * OS Stats: 
   * [iStats](https://drive.google.com/file/d/1W7xyxoxytAIETmN7_25QXMbplDhBYAH9/view?usp=sharing): worth to buy it in X'mas or BlackFriday
   * [stats](https://github.com/exelban/stats): open source
-  * [MenuMeters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/): raw base style
+  * <s>[MenuMeters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/): raw base style</s>
+* __iterm2__: `brew install iterm2`
+  * Appearance &rarr; General &rarr; Status bar location
+  * Appearance &rarr; Theme &rarr; Minimal
+  * Profiles &rarr; Session &rarr; Status bar enabled
+  * Keys &rarr; Hotkey &rarr; cmd + `
+  * k8s on status bar: https://sig.gy/itermkube/
+  * [kube-fzf](https://github.com/thecasualcoder/kube-fzf)
 * [oh-my-zsh](https://ohmyz.sh/)
-  * apply zsh theme correctly
+  * Plugin
+    * [zsh-completions](https://github.com/zsh-users/zsh-completions)
+    * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+    * Installation: https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df
+    * [kube-ps1](https://github.com/jonmosco/kube-ps1)
+    ```bash
+    plugins=(kube-ps1 git zsh-syntax-highlighting zsh-autosuggestions)
+    ```
+  * Apply zsh theme correctly
   ```bash
   conda config --set changeps1 False
   unset CONDA_PROMPT_MODIFIER
   mv pinhao1994.zsh-theme .oh-my-zsh/themes
   ```
-  * Plugin
-    * [zsh-completions](https://github.com/zsh-users/zsh-completions)
-    * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-    * Installation: https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df
 * [Alfred](https://www.alfredapp.com/)
 * [Raycast](https://www.raycast.com/): Alfred alternative
 * [Itsycal](https://www.mowglii.com/itsycal/): Format - `E MMM dd  HH:mm`
 * <s>[Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur): alternative for SpotMenu </s>
-* iterm2: `brew install iterm2`
-  * Appearance &rarr; General &rarr; Status bar location
-  * Appearance &rarr; Theme &rarr; Minimal
-  * Profiles &rarr; Session &rarr; Status bar enabled
-  * Keys &rarr; Hotkey &rarr; cmd + ` 
-  * k8s on status bar: https://sig.gy/itermkube/
-  * [kube-fzf](https://github.com/thecasualcoder/kube-fzf)
 * iShot: App Store; scrolling screenshot; (`cmd + shf + 4`)
 * [Rectangle](https://rectangleapp.com/)
 * All in One
@@ -92,6 +96,7 @@
 * DataBase Management
   * [Sequel](http://www.sequelpro.com/)
   * [Mongo Compass](https://www.mongodb.com/try/download/compass)
+  * [Studio 3T](https://studio3t.com/) for MongoDB
   * [BeeKeeper](https://www.beekeeperstudio.io/)
   * DataGrip
 * <s>[Spotmenu](https://kmikiy.github.io/SpotMenu/) </s>
