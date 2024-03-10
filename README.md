@@ -46,6 +46,7 @@
   * [iStats](https://drive.google.com/file/d/1W7xyxoxytAIETmN7_25QXMbplDhBYAH9/view?usp=sharing): worth to buy it in X'mas or BlackFriday
   * [stats](https://github.com/exelban/stats): open source
   * <s>[MenuMeters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/): raw base style</s>
+* AllMyBatteries: on App store
 * __iterm2__: `brew install iterm2`
   * Appearance &rarr; General &rarr; Status bar location
   * Appearance &rarr; Theme &rarr; Minimal
@@ -53,6 +54,7 @@
   * Keys &rarr; Hotkey &rarr; cmd + `
   * k8s on status bar: https://sig.gy/itermkube/
   * [kube-fzf](https://github.com/thecasualcoder/kube-fzf)
+  * [kube-ps1](https://github.com/jonmosco/kube-ps1)
 * [oh-my-zsh](https://ohmyz.sh/)
   * Plugin
     * [zsh-completions](https://github.com/zsh-users/zsh-completions)
@@ -80,6 +82,7 @@
   * <s>Rambox: [customize dark theme](https://github.com/pinhao1994/Computer-Environment/blob/master/Rambox) </s>  
   * Clovery: App Store; alternative for Rambox
 * [WPS](https://www.wps.com/download/): free MS office alternative
+* [Cyberduck](https://cyberduck.io/): free GCS / S3 / etc browser.
 
 
 ### Optional
