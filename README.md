@@ -36,6 +36,7 @@
 
 ### MacOS
 
+* [InYourFace](https://www.inyourface.app/)
 * [AppCleaner](https://freemacsoft.net/appcleaner/)
 * [Tunnelblick: VPN](https://tunnelblick.net/)
 * [Mounty: Read/Write NTFS](https://mac.filehorse.com/download-mounty/)
