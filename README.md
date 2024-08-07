@@ -36,6 +36,8 @@
 
 ### MacOS
 
+* Thor Launcher: App Store
+* [Ice](https://github.com/jordanbaird/Ice)
 * [InYourFace](https://www.inyourface.app/)
 * [AppCleaner](https://freemacsoft.net/appcleaner/)
 * [Tunnelblick: VPN](https://tunnelblick.net/)
@@ -43,11 +45,6 @@
 * [KeKa: Unzip](https://www.keka.io/en/)
 * [Shifty: Night Shift](https://shifty.natethompson.io/en/)
 * <s>Toothpicks: on App store</s>
-* OS Stats: 
-  * [iStats](https://drive.google.com/file/d/1W7xyxoxytAIETmN7_25QXMbplDhBYAH9/view?usp=sharing): worth to buy it in X'mas or BlackFriday
-  * [stats](https://github.com/exelban/stats): open source
-  * <s>[MenuMeters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/): raw base style</s>
-* AllMyBatteries: on App store
 * __iterm2__: `brew install iterm2`
   * Appearance &rarr; General &rarr; Status bar location
   * Appearance &rarr; Theme &rarr; Minimal
@@ -88,6 +85,7 @@
 
 ### Optional
 
+* AllMyBatteries: on App store
 * [Fliqlo](https://fliqlo.com/)
 * MS office ([mac](https://drive.google.com/file/d/12FGjwn0kZY4fOZfkbsC_TfjWjPri1ohu/view?usp=sharing), windows)
 * [LibreOffice](https://www.libreoffice.org/) 
@@ -108,3 +106,7 @@
 * Adobe Acrobat DC
 * WinRAR
 * [Get Mi Home Devices Token](https://github.com/Maxmudjon/Get_MiHome_devices_token)
+* OS Stats: 
+  * [iStats](https://drive.google.com/file/d/1W7xyxoxytAIETmN7_25QXMbplDhBYAH9/view?usp=sharing): worth to buy it in X'mas or BlackFriday
+  * [stats](https://github.com/exelban/stats): open source
+  * <s>[MenuMeters](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/): raw base style</s>
