@@ -53,6 +53,25 @@
   * k8s on status bar: https://sig.gy/itermkube/
   * [kube-fzf](https://github.com/thecasualcoder/kube-fzf)
   * [kube-ps1](https://github.com/jonmosco/kube-ps1)
+  * ```bash
+    tailsvc () {
+      svc=$(kubectl get svc --no-headers | fzf | awk '{print $1}')
+    
+      echo "kubectl logs -f --tail=200 svc/$svc"
+      kubectl logs -f --tail=200 svc/$svc;
+    }
+    getyaml () {
+      rsrc_type=${1:-pod}
+      rsrc=$(kubectl get $rsrc_type --no-headers | fzf | awk '{print $1}')
+    
+      if [ -n "$rsrc" ]; then
+        echo "kubectl get $rsrc_type $rsrc -o yaml";
+        kubectl get $rsrc_type $rsrc -o yaml
+      else
+        echo "No resource selected."
+      fi
+    }
+    ```
 * [oh-my-zsh](https://ohmyz.sh/)
   * Plugin
     * [zsh-completions](https://github.com/zsh-users/zsh-completions)
