@@ -18,15 +18,6 @@
     * JSON Formatter
     * Big Data File Viewer (or Big Data Tools)  
 * Bitwarden
-* [miniconda](https://docs.conda.io/en/latest/miniconda.html)
-  * Move the script at the bottom of `.bashrc` to `.zsh_conda` after installation.
-  * Jupyter
-  ```bash
-  function addjupkernel() {
-    python -m ipykernel install --user --name=$1
-  }
-  ```
- * Jupyter Viewer ([nbviewer](https://github.com/tuxu/nbviewer-app))
 
 ---
 
@@ -50,6 +41,7 @@
   * [Studio 3T](https://studio3t.com/) for MongoDB
   * [BeeKeeper](https://www.beekeeperstudio.io/)
   * DataGrip
+* Jupyter Viewer ([nbviewer](https://github.com/tuxu/nbviewer-app))
 
 ### Optional
 
