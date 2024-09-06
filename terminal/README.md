@@ -61,7 +61,30 @@ git clone <repo> $ZSH_CUSTOM/plugins/<repo>
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-``` 
+```
+
+* [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+  * Move the script at the bottom of `.bashrc` to `.zsh_conda` after installation.
+
+```bash
+function addjupkernel() {
+  python -m ipykernel install --user --name=$1
+}
+
+conda-activate-fzf () {
+  if [ -z "$1" ]; then
+    env=$(conda env list | awk '{print $1}' | grep -v "#" | fzf)
+    if [ -n "$env" ]; then
+      conda activate "$env"
+    else
+      echo "No environment selected."
+    fi
+  else
+    conda activate "$1"
+  fi
+  }
+alias ca="conda-activate-fzf"
+```
 
 * [jq](https://jqlang.github.io/jq/)
 * [kube-fzf](https://github.com/thecasualcoder/kube-fzf)
