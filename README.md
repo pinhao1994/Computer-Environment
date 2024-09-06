@@ -73,13 +73,14 @@
     }
     ```
 * [oh-my-zsh](https://ohmyz.sh/)
-  * Plugin
-    * [zsh-completions](https://github.com/zsh-users/zsh-completions)
+  * Plugin (`git clone <repo> $ZSH_CUSTOM/plugins/<repo>` or [Installation Guide Reference](https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7d))
+    * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting.git)
     * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-    * Installation: https://gist.github.com/n1snt/454b879b8f0b7995740ae04c5fb5b7df
     * [kube-ps1](https://github.com/jonmosco/kube-ps1)
+    * [fzf-tab](https://github.com/Aloxaf/fzf-tab)
+    * add `source <(kubectl completion zsh)` at the end of `.zshrc`
     ```bash
-    plugins=(kube-ps1 git zsh-syntax-highlighting zsh-autosuggestions)
+    plugins=(kube-ps1 git zsh-syntax-highlighting zsh-autosuggestions fzf-tab)
     ```
   * Apply zsh theme correctly
   ```bash
