@@ -12,8 +12,7 @@ brew install iterm2
 * Appearance &rarr; Theme &rarr; Minimal
 * Profiles &rarr; Session &rarr; Status bar enabled
 * Keys &rarr; Hotkey &rarr; `` cmd + ` ``
-* (optional) k8s on status bar: https://sig.gy/itermkube/
-* Apply zsh theme correctly
+* (optional) k8s on status bar: https://sig.gy/itermkube/  
 
 ## oh-my-zsh
 
@@ -59,8 +58,14 @@ git clone <repo> $ZSH_CUSTOM/plugins/<repo>
 ## Packages
 
 * [Homebrew](https://brew.sh/)
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+``` 
+
 * [jq](https://jqlang.github.io/jq/)
 * [kube-fzf](https://github.com/thecasualcoder/kube-fzf)
+
 ```bash
 tailsvc () {
   svc=$(kubectl get svc --no-headers | fzf | awk '{print $1}')
