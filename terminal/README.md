@@ -51,7 +51,14 @@ git clone <repo> $ZSH_CUSTOM/plugins/<repo>
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [kube-ps1](https://github.com/jonmosco/kube-ps1)
 * [fzf-tab](https://github.com/Aloxaf/fzf-tab)
-* Add `source <(kubectl completion zsh)` at the end of `.zshrc` for `kubectl` completion
+* [fzf](https://github.com/junegunn/fzf)
+
+### Completion
+
+Add `source` command at the end of `.zshrc`
+
+* `source <(kubectl completion zsh)` for `kubectl`
+* `source <(fzf --zsh)` for `fzf`
 
 
 
