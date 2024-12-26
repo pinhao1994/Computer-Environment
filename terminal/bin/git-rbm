@@ -1,0 +1,4 @@
+#!/bin/bash
+branch=$(git branch --list | grep -o -m1 "\b\(master\|main\)\b")
+git fetch origin "$branch"
+git rebase origin/"$branch" "$@"

@@ -1,0 +1,13 @@
+#!/bin/bash
+if [ -z "$1" ]; then
+  # No arguments: Trigger fzf to select a branch
+  branch=$(git branch --list | sed 's/^[* ]*//' | fzf)
+  if [ -n "$branch" ]; then
+    git checkout "$branch"
+  else
+    echo "No branch selected."
+  fi
+else
+  # Arguments provided: Perform regular git checkout
+  git checkout "$@"
+fi

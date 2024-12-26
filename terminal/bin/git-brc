@@ -1,0 +1,15 @@
+#!/bin/bash
+
+current_branch=$(git branch --show-current)
+protected_branches=(
+  "$current_branch"
+  "master"
+  "main"
+  "dev/*"
+  "release/*"
+  # "dev/nlpaas-airflow"
+)
+_grep_E=$(IFS="|"; echo "${protected_branches[*]}")
+
+# Delete all branches not matching the protected patterns
+git branch -D $(git branch | grep -v -E "$_grep_E" | xargs)

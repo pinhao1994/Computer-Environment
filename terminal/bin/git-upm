@@ -1,0 +1,23 @@
+#!/bin/bash
+
+default_branch=$(git branch --list | grep -o -m1 "\b\(master\|main\)\b")
+
+# Step 2: Pull the current branch from origin
+current_branch=$(git branch --show-current)
+echo "Pulling the current branch: $current_branch"
+git pull origin "$current_branch"
+
+# Step 3: Fetch the latest updates for the default branch
+echo "Fetching updates for the default branch: $default_branch"
+git fetch origin "$default_branch"
+
+# Step 4: Merge the updated default branch into the current branch
+echo "Merging $default_branch into $current_branch"
+git merge origin/"$default_branch"
+
+# Step 5: Optional: Indicate success or conflicts
+if [ $? -eq 0 ]; then
+    echo "Merge completed successfully!"
+else
+    echo "Merge conflicts detected. Please resolve manually."
+fi
