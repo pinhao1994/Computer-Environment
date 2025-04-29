@@ -7,6 +7,9 @@
   * [MeetApps Google Calendar Video Call Links](https://chrome.google.com/webstore/detail/meetapps-google-calendar/jgliplolinicikblamobaaagffepghie)
   * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
   * [Grammarly](https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+  * [Annotate the Web](https://chromewebstore.google.com/detail/annotate-the-web/hkdbcemiphlcpmcphjgfaepgciimcoef)
+  * [Momentum](https://chromewebstore.google.com/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
+  * [SalaDict](https://chromewebstore.google.com/detail/saladict-pop-up-dictionar/cdonnmffkdaoajfknoeeecmchibpmkmg/reviews?hl=en)
 * Java Env
 * Spotify
 * Line
