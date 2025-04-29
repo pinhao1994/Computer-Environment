@@ -116,4 +116,6 @@ getyaml () {
   fi
 }
 ```
+
+* [git-fixup](https://jordanelver.co.uk/blog/2020/06/04/fixing-commits-with-git-commit-fixup-and-git-rebase-autosquash/)
   
